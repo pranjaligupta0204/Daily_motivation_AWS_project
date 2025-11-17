@@ -1,10 +1,9 @@
-# Daily Motivation Serverless Project
-
+# <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">  Daily Motivation Serverless Project
 A lightweight cloud-powered system that sends a motivational quote to your email every morning using AWS Lambda, S3, SNS, and EventBridge.
 
 ---
 
-##  Why This Project? (Mental Health)
+##  Why This Project? (Mental Health) 
 Small positive reminders can improve mood, reduce stress, and support healthier thinking patterns.  
 This project delivers a simple daily boost to help build motivation and emotional balance.
 
