@@ -50,7 +50,6 @@ This project delivers a simple daily boost to help build motivation and emotiona
 ##  Why This Is Useful
 - Encourages positive daily habits  
 - Demonstrates real cloud automation skills  
-- Great for portfolios, learning AWS, or personal use  
 - Extremely low cost and simple to maintain  
 
 ---
